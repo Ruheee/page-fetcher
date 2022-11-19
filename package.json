@@ -1,0 +1,24 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "main": "fetcher.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruheee/page-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruheee/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/Ruheee/page-fetcher#readme",
+  "description": ""
+}
